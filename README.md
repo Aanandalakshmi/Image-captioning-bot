@@ -2,7 +2,7 @@
 This is a simple and fun web app that generates natural-language captions for images using the BLIP (Bootstrapping Language-Image Pretraining) model from Hugging Face. Built with 🧠 Streamlit and completely free to run locally, no API keys required!
 
 💡 Features
-#Upload any image (JPG/PNG).
+#Upload any image (JPG/JPEG/PNG).
 
 #Automatically generates a descriptive caption using the BLIP model.
 
